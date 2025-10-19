@@ -1,0 +1,5 @@
+{
+  "name": "React Stopwatch",
+  "description": "A modern, interactive stopwatch application built with React, TypeScript, and Tailwind CSS. It features start, pause, reset, and lap functionalities with a sleek dark theme design.",
+  "requestFramePermissions": []
+}
